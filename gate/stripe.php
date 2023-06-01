@@ -1,0 +1,1 @@
+https://securepayment.zee5.com/paymentGateway/coupon/verification?coupon_code=<tok>&translation=en&country_code=IN
